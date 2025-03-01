@@ -3,6 +3,6 @@ This is a simple Currency Converter web application that allows users to convert
 # Features
 <ul><li>Convert between multiple currencies (USD, EUR, TRY, SYP, etc.).
 <li>User-friendly interface with a dark gradient theme.
-<li>Instant conversion with a single click.<li/>
+<li>Instant conversion with a single click.
 <li>Displays exchange rates for 1 unit of selected currencies.
 <ul/>
